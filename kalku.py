@@ -4,3 +4,5 @@ print(a+b)
 
 pengurangan = a - b
 print(pengurangan)
+
+print(b)
